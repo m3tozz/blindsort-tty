@@ -17,8 +17,18 @@ a simple terminal-based number sorting game
 installation
 --
 ```bash
-git clone https://github.com/m3tozz/blindsort-tty.git && cd blindsort-tty && sudo make install && cd ..
+git clone https://github.com/m3tozz/blindsort-tty.git
 ```
+```bash
+cd blindsort-tty
+```
+```bash
+sudo make install
+```
+<details>
+<summary>For Uninstall</summary>
+<code>sudo make uninstall</code>
+</details>
 
 ----
 
