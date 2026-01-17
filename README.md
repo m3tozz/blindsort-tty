@@ -17,7 +17,7 @@ a simple terminal-based number sorting game
 installation
 --
 ```bash
-git clone https://github.com/m3tozz/blindsort-tty.git && cd blindsort-tty && sudo bash ./install.sh && cd ..
+git clone https://github.com/m3tozz/blindsort-tty.git && cd blindsort-tty && sudo make install && cd ..
 ```
 
 ----
